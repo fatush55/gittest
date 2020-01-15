@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background: linear-gradient(#a438b2, blue);
+}
+
+.head{
+    height: 1000px;
+}
+
+.head h1, p{
+    text-align: center;
+    color: white;
+}
+
+.head img{
+    display: block;
+    margin: auto;
+    opacity: 0.1;
+    filter: blur(4px);
+}
