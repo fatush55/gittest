@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section>
+
+    <header>
+<<<<<<< HEAD
+        <div class="header left">head master branch</div>  
+=======
+        <div class="header left">head branch branch1 </div>
+>>>>>>> branch1
+    </header>
+
+    <main>
+        <div class="left">
+            <h1>Hello </h1>
+        </div>
+        <div class="right">
+            <h3>hello</h3>
+        </div>
+    </main>
+    
+    <div class="head">
+        <h1>Hello</h1>
+        <p>Dima</p>
+        <img src="images/i%60m.png" alt="">
+    </div>
+    
+    
+    
+    
+    
+</section>
+
+</body>
+</html>
